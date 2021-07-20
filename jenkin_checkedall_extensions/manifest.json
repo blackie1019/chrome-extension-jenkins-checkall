@@ -1,7 +1,7 @@
 {
   "name": "Jenkins Checked All Extensions ",
   "description" : "Extension for enhance Jenkins Checked All function ",
-  "version": "1.0",
+  "version": "1.0.0",
   "manifest_version": 2,
   "browser_action": {
     "default_icon": "logo.png",
@@ -27,8 +27,6 @@
     }
   },
   "permissions": [
-    "https://*/*",
-    "http://*/*",
-    "tabs"
+    "activeTab"
   ]
 }
