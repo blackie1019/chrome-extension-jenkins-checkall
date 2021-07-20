@@ -1,8 +1,12 @@
 # Chrome Extension - Jenkins Check All 
 
-[Chrome Web store - Jenkins Checked All Extensions](https://chrome.google.com/webstore/detail/jenkins-checked-all-exten/mollkbnjfdnlgoefefpoklefekllbekg)
-
 ## Setup Flow
+
+### Public - Chrome Web store
+
+Search and install [Jenkins Checked All Extensions](https://chrome.google.com/webstore/detail/jenkins-checked-all-exten/mollkbnjfdnlgoefefpoklefekllbekg)
+
+### Offline
 
 1. Download [jenkin_checkedall_extensions.zip](jenkin_checkedall_extensions.zip) and unzip files
 2. Open Chrome and goto [chrome://extensions/](chrome://extensions/) and click `Load Unpacked`
